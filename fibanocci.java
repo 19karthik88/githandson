@@ -13,7 +13,10 @@ public static void main(String args[])
 	  a=b;
 	  b=d;
 	  System.out.println(d);
+
            System.out.println("good");
+
+	   System.out.println("hello");
 	  }
 }
 }   
